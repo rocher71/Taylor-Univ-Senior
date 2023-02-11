@@ -1,4 +1,11 @@
+/*
+2.57 Writen procedures show_short, show_long, and show_double that print the byte representations of C objects
+of types short, long, and double, respectively. Try thses out on several machines.
+*/
+
+
 #include <stdio.h>
+
 
 typedef unsigned char *byte_poninter;
 
